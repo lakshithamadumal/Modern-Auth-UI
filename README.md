@@ -24,7 +24,7 @@ A sleek authentication interface with animated transitions and modern design pri
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 🌐 Live Demo
-[![Vercel](https://img.shields.io/badge/Live_Demo-000000?logo=vercel&logoColor=white)](https://your-demo-link.vercel.app)
+[![Vercel](https://img.shields.io/badge/Live_Demo-000000?logo=vercel&logoColor=white)](https://modern-auth-ui.vercel.app)
 
 ## 📄 License
 MIT © 2025 Laky
